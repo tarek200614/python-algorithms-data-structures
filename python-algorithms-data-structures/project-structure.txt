@@ -1,0 +1,39 @@
+python-algorithms-data-structures/
+│
+├── README.md                          # Project overview, features, usage
+├── LICENSE                            # MIT License
+│
+├── assets/
+│   ├── icons/                         # SVG icons (Python, Algorithms, Graph, Sorting, Hash Table, Recursion)
+│   ├── screenshots/                   # Manual screenshot checklist (README.md)
+│   └── diagrams/                      # SVG diagrams for each algorithm/data structure
+│
+├── docs/
+│   ├── project-structure.txt          # This file
+│   └── complexity-cheatsheet.md       # Big-O reference and comparison tables
+│
+├── hash-table/
+│   ├── hash_table.py                  # Custom hash table implementation
+│   ├── README.md                      # Theory, complexity, usage
+│   └── screenshots/                   # Manually captured run screenshots
+│
+├── tower-of-hanoi/
+│   ├── tower_of_hanoi.py              # Recursive Tower of Hanoi solver
+│   ├── README.md
+│   └── screenshots/
+│
+├── graph-algorithms/
+│   ├── bfs.py                         # Breadth-first search
+│   ├── dfs.py                         # Depth-first search
+│   ├── dijkstra.py                    # Dijkstra's shortest path
+│   └── README.md
+│
+├── recursion/
+│   ├── fibonacci.py                   # Recursive & memoized Fibonacci
+│   ├── parentheses_generator.py       # Generate valid parentheses combinations
+│   └── README.md
+│
+└── sorting/
+    ├── bubble_sort.py                 # Bubble sort implementation
+    ├── insertion_sort.py              # Insertion sort implementation
+    └── README.md
