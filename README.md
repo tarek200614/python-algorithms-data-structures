@@ -143,27 +143,30 @@ python-algorithms-data-structures/
 ├── hash-table/
 │   ├── hash_table.py
 │   ├── README.md
-│   └── screenshots/
+│   └── screenshots/          # Screenshot guidelines
 │
 ├── tower-of-hanoi/
 │   ├── tower_of_hanoi.py
 │   ├── README.md
-│   └── screenshots/
+│   └── screenshots/          # Screenshot guidelines
 │
 ├── graph-algorithms/
 │   ├── bfs.py
 │   ├── dfs.py
 │   ├── dijkstra.py
+│   └── screenshots/          # Screenshot guidelines
 │   └── README.md
 │
 ├── recursion/
 │   ├── fibonacci.py
 │   ├── parentheses_generator.py
+│   └── screenshots/          # Screenshot guidelines
 │   └── README.md
 │
 └── sorting/
     ├── bubble_sort.py
     ├── insertion_sort.py
+    └── screenshots/          # Screenshot guidelines
     └── README.md
 ```
 
