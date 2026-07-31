@@ -744,12 +744,11 @@ Computer Science & AI Student passionate about:
 
 **Connect with me**
 
-- GitHub: `https://github.com/your-username`
-- LinkedIn: `https://linkedin.com/in/your-profile`
-- Portfolio: `https://your-portfolio.com`
-- Email: `your-email@example.com`
+- GitHub: `https://github.com/tarek200614`
+- LinkedIn: `https://www.linkedin.com/in/abderrahmane-tarek-meghari`
+- Email: `meghariabderrhmanetarek@gmail.com`
 
-> Replace the placeholders above with your own information before publishing the repository.
+
 
 ---
 
