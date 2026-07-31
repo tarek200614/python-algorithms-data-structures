@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" fill="none"/>
+  <!-- Gear representing algorithms -->
+  <g fill="#4a90d9">
+    <circle cx="64" cy="64" r="20"/>
+    <rect x="58" y="8" width="12" height="20" rx="3"/>
+    <rect x="58" y="100" width="12" height="20" rx="3"/>
+    <rect x="8" y="58" width="20" height="12" rx="3"/>
+    <rect x="100" y="58" width="20" height="12" rx="3"/>
+    <rect x="22" y="22" width="12" height="20" rx="3" transform="rotate(-45 28 32)"/>
+    <rect x="94" y="22" width="12" height="20" rx="3" transform="rotate(45 100 32)"/>
+    <rect x="22" y="86" width="12" height="20" rx="3" transform="rotate(45 28 96)"/>
+    <rect x="94" y="86" width="12" height="20" rx="3" transform="rotate(-45 100 96)"/>
+  </g>
+  <circle cx="64" cy="64" r="10" fill="#f8f9fa"/>
+  <text x="64" y="69" text-anchor="middle" font-family="Arial" font-size="14" fill="#4a90d9" font-weight="bold">A</text>
+</svg>
