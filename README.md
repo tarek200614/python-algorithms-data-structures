@@ -231,6 +231,7 @@ Features:
 - Delete
 - Resize
 - Collision Handling
+- - **Screenshot:** ![Hash Table Demo](hash-table/screenshots/hash_table_demo.png)
 
 ---
 
