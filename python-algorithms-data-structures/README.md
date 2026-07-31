@@ -124,7 +124,7 @@ For a detailed breakdown, see [`docs/project-structure.txt`](docs/project-struct
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/python-algorithms-data-structures.git
+git clone https://github.com/tarek200614//python-algorithms-data-structures.git
 cd python-algorithms-data-structures
 ```
 
