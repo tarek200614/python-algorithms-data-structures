@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <rect width="128" height="128" fill="none"/>
+  <!-- Circular arrows representing recursion -->
+  <path d="M64 20 C40 20 20 40 20 64 C20 88 40 108 64 108 C88 108 108 88 108 64" fill="none" stroke="#9b59b6" stroke-width="4" stroke-linecap="round"/>
+  <!-- Arrow head -->
+  <polygon points="108,64 100,54 100,74" fill="#9b59b6"/>
+  <!-- Inner node -->
+  <circle cx="64" cy="64" r="16" fill="#9b59b6" stroke="#333" stroke-width="2"/>
+  <text x="64" y="69" text-anchor="middle" font-family="Arial" font-size="14" fill="white" font-weight="bold">f</text>
+  <!-- Small recursive arrows -->
+  <path d="M44 44 C36 44 30 50 30 58" fill="none" stroke="#4a90d9" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="30,58 26,52 34,52" fill="#4a90d9"/>
+  <path d="M84 84 C92 84 98 78 98 70" fill="none" stroke="#5cb85c" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="98,70 102,76 94,76" fill="#5cb85c"/>
+</svg>
